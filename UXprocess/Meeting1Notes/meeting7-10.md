@@ -10,3 +10,12 @@
 
 ###Next Level
 * The app helps facilitate community development and meaningful interaction
+
+##Next Steps
+* **Prototype** MVP flow from landing page to individual student profile
+* Research
+  * Design **interviews**
+
+##Next Meeting
+* design Studio
+* interview plan 
